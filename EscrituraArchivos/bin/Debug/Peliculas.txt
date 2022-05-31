@@ -1,0 +1,10 @@
+
+Película: Spider man 
+Director: Sam Raimi
+Año: 2002
+Película: Avatar
+Director: James Cameron
+Año: 2009
+Película: Joker
+Director: Todd Phillips
+Año: 2019
