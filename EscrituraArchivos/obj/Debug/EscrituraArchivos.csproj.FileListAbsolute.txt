@@ -1,0 +1,7 @@
+C:\Users\julia\OneDrive\Documents\GitHub\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe.config
+C:\Users\julia\OneDrive\Documents\GitHub\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.exe
+C:\Users\julia\OneDrive\Documents\GitHub\EscrituraArchivos\EscrituraArchivos\bin\Debug\EscrituraArchivos.pdb
+C:\Users\julia\OneDrive\Documents\GitHub\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documents\GitHub\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documents\GitHub\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.exe
+C:\Users\julia\OneDrive\Documents\GitHub\EscrituraArchivos\EscrituraArchivos\obj\Debug\EscrituraArchivos.pdb
